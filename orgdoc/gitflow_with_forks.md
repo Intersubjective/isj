@@ -17,13 +17,13 @@ This means:
 
 [Video explanation](https://www.youtube.com/watch?v=trSe0Q8oSXI) (14m) about how to work with GitHub forks.
 
-![img](images/Untitled.png)
+![img](images/u0.png)
 
 ## 🍴 Why Forks? 🍴
 
 **Short answer:**
 
-pic1
+![img](images/u1.png)
 
 **Branch list is a shared resource** that gets overused quickly (think “[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)”). **Forks make that resource private** instead, thus saving everyone’s nerves.
 
@@ -46,9 +46,9 @@ pic1
     - Polygon Network repo: 270+ branches and 502 forks
     - Geth repo: just 37 branches and ~20k forks
     
-pic2
+![img](images/u2.png)
     
-pic3
+![img](images/u3.png)
     
     On the contrary, **the advantages of the fork-based workflow are:**
     
@@ -63,7 +63,7 @@ pic3
 
 OneFlow is a simplified version of the GitFlow/GitHubFlow branching model. Here it is:
 
-pic4
+![img](images/u4.png)
 
 The principles are:
 
