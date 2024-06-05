@@ -17,7 +17,7 @@ This means:
 
 [Video explanation](https://www.youtube.com/watch?v=trSe0Q8oSXI) (14m) about how to work with GitHub forks.
 
-pic0
+![img](images/Untitled.png)
 
 ## 🍴 Why Forks? 🍴
 
